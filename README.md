@@ -1,6 +1,6 @@
 # 🚀 Retail Supply Chain Analysis
 
-## 📌 Project Overview
+## 📌 Project Overview.
 
 This project focuses on analyzing the retail supply chain by cleaning and preprocessing data in Python using Jupyter Notebook 🐍 and then visualizing key insights using Looker Studio 📊.
 
@@ -69,26 +69,3 @@ Looker Studio for data visualization and dashboard creation.
 📂 Load the cleaned dataset into Looker Studio.
 
 🔍 Explore the interactive dashboard to analyze sales trends, inventory levels, and logistics performance.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
